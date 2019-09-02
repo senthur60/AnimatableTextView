@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AnimatableTextView</string>
+    <string name="animateTest">AnimationText</string>
+</resources>
