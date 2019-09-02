@@ -1,0 +1,3 @@
+# AnimatableTextView
+
+![](animation.gif)
